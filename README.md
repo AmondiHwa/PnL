@@ -18,3 +18,7 @@ As well as, identifing the date and amount in which the greatest profit and loss
 * graph the whole period -> analyzing overall bigger picture
 * Mannually enter dates and amount -> help Id : Net Total, Average Change, greatest profit and loss.
 * State findings in the objective format -> As the role of Financial Analyst.
+
+## Questions?
+
+![pnl2](https://user-images.githubusercontent.com/97075894/157369185-84f3e8c4-001d-4096-9550-7a699b0a52fb.gif)
