@@ -2,7 +2,7 @@
 ***
 Analyzing BankPy's Profit and Loss dataset from the past 86 months.
 
-Images/revenue-per-lead.jpg
+![pnl](https://user-images.githubusercontent.com/97075894/157368894-2eca3eaa-c658-4d1c-b43d-81530ba49d22.jpeg)
 
 ## Task
 Create an analyzing python script that can calculate the total net amount, and the average change in the Profit and Loss over the 86 months. 
